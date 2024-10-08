@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @admin-iga
 - 👀 I’m interested in IT, OS, PYTHON
 - 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on NONE
+- 💞️ I’m looking to collaborate on OS
 - 📫 How to reach me in nolzonip5@gmail.com
 - 😊I am working on OS
 
